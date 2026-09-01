@@ -197,7 +197,7 @@ The `lwjgl3` module starts the window and packages a cross-platform JAR.
 
 ## Credits
 
-- **Amir Ehsani** — design and programming · [Portfolio](https://amir-ehsani.github.io/Portfolio/)
+- **Amir Ehsani** — design and programming · [Portfolio](https://amir-ehsani.xyz/)
 - **Team Cherry** — Hollow Knight, the original world, characters, and audio-visual identity
 - **libGDX** and **LWJGL** — the desktop framework this project is built on
 - **Tiled** — map editor used for the Crossroads and Crystal Peak layouts
