@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: TurnToFly
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	TurnToFly_000.png
+1	TurnToFly_001.png
+2	TurnToFly_002.png
+3	TurnToFly_003.png
+4	TurnToFly_004.png
+5	TurnToFly_005.png

@@ -1,0 +1,38 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	trajan_pro: {
+		file: trajan_pro.fnt
+		scaledSize: -1
+		markupEnabled: false
+		flip: false
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	click_text: {
+		r: 0.47843137
+		g: 0.47843137
+		b: 0.47843137
+		a: 1
+	}
+	hover_text: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	normal_text: {
+		r: 0.7607843
+		g: 0.7607843
+		b: 0.7607843
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	hollow_style: {
+		font: trajan_pro
+		fontColor: normal_text
+		downFontColor: click_text
+		overFontColor: hover_text
+	}
+}
+}

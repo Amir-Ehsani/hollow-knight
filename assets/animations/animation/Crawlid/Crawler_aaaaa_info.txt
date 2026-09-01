@@ -1,0 +1,9 @@
+version: 2
+type: animation
+name: Death Land
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 2
+0	Death Land_000.png
+1	Death Land_001.png
